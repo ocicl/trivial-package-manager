@@ -2,9 +2,8 @@
 
 A simple interface to distro-specific package managers.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/guicho271828/trivial-package-manager.git   |
-| commit  | f5b1204  |
-| systems | trivial-package-manager |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------------------|
+| source  | git:https://github.com/guicho271828/trivial-package-manager.git |
+| commit  | 9784982                                                         |
+| systems | trivial-package-manager                                         |
+|---------+-----------------------------------------------------------------|
