@@ -7,3 +7,4 @@ A simple interface to distro-specific package managers.
 | commit  | 9784982                                                         |
 | systems | trivial-package-manager                                         |
 |---------+-----------------------------------------------------------------|
+ 
